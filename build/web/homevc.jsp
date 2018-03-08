@@ -142,7 +142,7 @@ div.img1{
         </style>
         
      
-        <h1>Virtual Classroom   <img src="vc1.gif" alt="hello" width="100" height="110" ></h1><br>
+        <h1>Virtual Classroom   <img src="images/vc1.gif" alt="hello" width="100" height="110" ></h1><br>
         
           <ul>
   <li><a href="index.html">Home</a></li>
@@ -172,7 +172,7 @@ div.img1{
             <span style="font-size:20px"> Give your learners a simple, convenient, and reliable synchronous<br> learning solution that's built for education and training. Learners can<br> engage with each other and the material, and feel like they're<br> together in the same room via collaboration and conference tools <br>wherever their day takes them, whatever device they're using.</span><br><br><br>
               <br><br></div>
         <br><br>
-       <img src="vc5.png" alt="hellod" hspace="120"  style="margin-left: 120px; float: left;">
+       <img src="images/vc5.png" alt="hellod" hspace="120"  style="margin-left: 120px; float: left;">
        <h3 style="margin-top: 4em; color:#333333;font-size: 28px;  "> Digital Classroom Software</h3>
         <hr style="margin-right: 30px">
        <span style="font-size: 18px; color:#005A31;text-align: justify ">Like an in-person classroom or training setting,<br> a virtual classroom is a place where learning<br> happens. Educators facilitate, while learners<br>
@@ -186,18 +186,18 @@ div.img1{
      <br>
      <h4 style="color:#005A31; font-size:35px;margin-left: 120px ">Why Virtual Classroom?</h4>
      <div class="img">
-         <img src="vc6.png" alt="Troll" width="340" height="150" style="">
+         <img src="images/vc6.png" alt="Troll" width="340" height="150" style="">
          <div class="desc">Complete virtual classroom tools, <br>all in the browser<br><span style="font-size:18px;color:#B71427">  With the redesigned Blackboard<br> Collaborate, theres no Java: everything<br> happens in the browser. So deployment is <br>simple and everyone has convenient<br> access to tools, with nothing to install.<br><br>
              </span>
 </div>
 </div>
      <div class="img1" >
-    <img src="vc7.png" alt="Troll" width="340" height="150" style="">
+    <img src="images/vc7.png" alt="Troll" width="340" height="150" style="">
     <div class="desc">High-quality audio, video, and<br> application sharing<br><span style="font-size:18px;color:#B71427">Engage learners with high-quality audio, <br>video, and dynamic adjustment.<br>Your learners will notice clearer conversations, <br>a better experience, and faster, sharper <br>application sharing.<br><br>
     </span></div>
 </div> 
    <div class="img1">
- <img src="gj.jpg" alt="Troll" width="340" height="150" style="">
+ <img src="images/gj.jpg" alt="Troll" width="340" height="150" style="">
  <div class="desc">A more satisfying user experience<br> for everyone<br><span style="font-size:18px;color:#B71427">Whats better about our virtual-classroom<br> user experience Its our dedication to<br> education, deep integration with<br> superior support for academic workflows, <br>and full accessibility for educators and<br> learners, including those with disabilities.</span></div>
 </div>
   
